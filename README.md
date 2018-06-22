@@ -33,7 +33,41 @@
 |---------------|-------------------|
 |Swift or Obj-C |Java or Kotlin     |
 
+The challenge with this approach is quite obvious, you'll need to duplicate your efforts and costs, when going with this route, twice the cost of ownership to develop for both platforms.
 
+#### Other frameworks
 
+1. Ionic 
+2. Xamarin
+3. PureScript
+4. Flutter
 
+#### Overview
+
+1. You write JSX that compiles to plain JS package using Webpack
+2. Load JS in JavaScriptCore where it executes it, render native components
+
+#### Installation
+
+1. NodeJS - latest version
+2. Visual Studio code - code editor
+3. Git
+
+#### Configuring your environment
+
+```console
+jaydeepvomex@MacBookPro:~$ npm i -g create-react-native-app
+```
+
+```console
+jaydeepvomex@MacBookPro:~$ create-react-native-app AppName
+```
+
+> cd into the folder
+
+```console
+jaydeepvomex@MacBookPro:~$ yarn start
+```
+
+> To run the app
 
