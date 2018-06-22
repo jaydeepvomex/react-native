@@ -27,6 +27,12 @@
 2. NPM - millions of packages, you can use NPM packages in your app
 3. Get Unstuck - Loads of people to help you out when you get stuck
 
+#### Traditional Approach
+
+| Targeting iOS | Targeting Android |
+|---------------|-------------------|
+|Swift or Obj-C |Java or Kotlin     |
+
 
 
 
