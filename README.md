@@ -71,3 +71,5 @@ jaydeepvomex@MacBookPro:~$ yarn start
 
 > To run the app
 
+| Download Expo Client from the app store
+
